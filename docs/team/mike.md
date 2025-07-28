@@ -12,11 +12,9 @@ Mike Marquet is a postDoc at the *Institute for Infectious Diseases and Infectio
 Enhancing hospital surveillance through methylation-guided plasmid-host pairing for multidrug-resistant bacteria  
 
 The project aims to develop and evaluate methylation-based approaches for tracking antimicrobial resistance plasmids in clinical settings through three key objectives:  
-(1) assess the stability of DNA methylation patterns in clinical bacterial isolates under antibiotic pressure and the temporal dynamics and host specificity of methylation signatures during bacterial growth (methylation stress memory) and plasmid conjugation events,
-(2) validate the feasibility of methylation-based plasmid-host linking in complex clinical specimens, with a focus on stool samples, and 
-(3) development and validation of a streamlined, user-friendly bioinformatic workflow for methylation pattern detection and analysis.   
-
-
+**(1)** assess the stability of DNA methylation patterns in clinical bacterial isolates under antibiotic pressure and the temporal dynamics and host specificity of methylation signatures during bacterial growth (methylation stress memory) and plasmid conjugation events,
+**(2)** validate the feasibility of methylation-based plasmid-host linking in complex clinical specimens, with a focus on stool samples, and 
+**(3)** development and validation of a streamlined, user-friendly bioinformatic workflow for methylation pattern detection and analysis.   
 
 
 [**PEONS**: ](https://www.uniklinikum-jena.de/infektionsmedizin/Translationale+Forschung/Klinische+Studien/PEONS.html)
